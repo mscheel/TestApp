@@ -17,7 +17,7 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Red Button"
+            android:text="@string/red_button_label"
             android:id="@+id/button"
             android:layout_below="@+id/textView"
             android:layout_alignParentLeft="true"
@@ -27,7 +27,7 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Blue Button"
+            android:text="@string/blue_button_label"
             android:id="@+id/button2"
             android:layout_below="@+id/button"
             android:layout_alignParentLeft="true"
